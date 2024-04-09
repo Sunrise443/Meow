@@ -1,0 +1,161 @@
+body {
+    background-image: url(/pic/Stars.png);
+    background-size: 512px;
+    width: auto;
+    height: auto;
+    font-weight: bolder;
+    font-size: 14px;
+    font-family: "Chilanka", cursive;
+}
+
+
+
+/* Blocks */
+
+.Container {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+}
+
+.Container2 {
+    margin: auto;
+    max-width: 1000px;
+    background-color: #9197AE;
+    color: #273043;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.Block1 {
+    display: flex;
+}
+
+.Block2 {
+    background-color: #9197AE;
+    color: #273043;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 25px;
+    padding-top: 5px;
+    width: 200px;
+    height: max-content;
+}
+
+.Block3 {
+    background-color: #9197AE;
+    color: #273043;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.Block4 {
+    margin-top: 30px;
+    border: 10px #960200 dashed;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.InfoBlock1 {
+    border-radius: 5px;
+    margin: 20px;
+    padding-left: 20px;
+    width: 400px;
+    padding-top: 5px;
+}
+
+.FriendsList {
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    color: #273043;
+}
+
+
+
+/* Text */
+
+.Title {
+    text-align: center;
+}
+
+.Title2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.Title3 {
+    font-size: 35px;
+}
+
+.Text {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.Text2 {
+    font-size: 25px;
+}
+
+
+
+/* Images */
+
+.FriendsImg {
+    width: 50px;
+    height: auto;
+    margin: 10px;
+    margin-left: 0px;
+    border: 3px #EFF6EE solid;
+    border-radius: 5px;
+}
+
+.Image {
+    padding: auto;
+    width: 310px;
+    height: auto;
+    border: 8px #EFF6EE solid;
+    border-radius: 5px;
+}
+
+.Images {
+    width: 960px;
+    height: auto;
+    margin: 10px;
+    border: 10px #EFF6EE solid;
+    border-radius: 5px;
+}
+
+
+
+/* Basic setup from internet */
+
+.chilanka-regular {
+    font-family: "Chilanka", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+
+.color1 {
+    background-color: #273043;
+}
+
+.color2 {
+    background-color: #9197AE;
+}
+
+.color3 {
+    background-color: #EFF6EE;
+}
+
+.color4 {
+    background-color: #BA1200;
+}
+
+.color5 {
+    background-color: #960200;
+}
